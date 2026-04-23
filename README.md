@@ -1,2 +1,2 @@
 # Mi-tamagotchi
-Mi proceso de aprendizaje desde cero
+Este es mi proyecto de fundamentos de programacion
